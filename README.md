@@ -31,31 +31,19 @@ Building AI products for agriculture, retail, and B2B. Designing architecture, e
 
 <table>
 <tr>
-<td width="50%">
-
-### Рабочее портфолио
-- [**ML-LLM-AI-portfolio**](https://github.com/romauov/ML-LLM-AI-portfolio)
-
-### Пет-проекты
-- [**hc-lada-digest**](https://github.com/romauov/hc-lada-digest)
-- [**my_exercise_bot**](https://github.com/romauov/my_exercise_bot)
-
-### Участие в контестах
-- [**yandex-contests**](https://github.com/romauov/yandex-contests)
-
-</td>
-<td width="50%">
-
-### Work Portfolio
-- [**ML-LLM-AI-portfolio**](https://github.com/romauov/ML-LLM-AI-portfolio)
-
-### Pet Projects
-- [**hc-lada-digest**](https://github.com/romauov/hc-lada-digest)
-- [**my_exercise_bot**](https://github.com/romauov/my_exercise_bot)
-
-### Contest Participation
-- [**yandex-contests**](https://github.com/romauov/yandex-contests)
-
-</td>
+<th width="50%">Категория</th>
+<th width="50%">Category</th>
+</tr>
+<tr>
+<td><b>Рабочее портфолио</b><br>• <a href="https://github.com/romauov/ML-LLM-AI-portfolio">ML-LLM-AI-portfolio</a></td>
+<td><b>Work Portfolio</b><br>• <a href="https://github.com/romauov/ML-LLM-AI-portfolio">ML-LLM-AI-portfolio</a></td>
+</tr>
+<tr>
+<td><b>Пет-проекты</b><br>• <a href="https://github.com/romauov/hc-lada-digest">hc-lada-digest</a><br>• <a href="https://github.com/romauov/my_exercise_bot">my_exercise_bot</a></td>
+<td><b>Pet Projects</b><br>• <a href="https://github.com/romauov/hc-lada-digest">hc-lada-digest</a><br>• <a href="https://github.com/romauov/my_exercise_bot">my_exercise_bot</a></td>
+</tr>
+<tr>
+<td><b>Участие в контестах</b><br>• <a href="https://github.com/romauov/yandex-contests">yandex-contests</a></td>
+<td><b>Contest Participation</b><br>• <a href="https://github.com/romauov/yandex-contests">yandex-contests</a></td>
 </tr>
 </table>
