@@ -48,6 +48,4 @@ Building AI products for agriculture, retail, and B2B. Designing architecture, e
 </tr>
 </table>
 
-![Deep-ML Stats](https://vercel.app)
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/romauov?theme=dark&font=Nunito)
