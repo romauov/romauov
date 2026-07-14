@@ -47,5 +47,5 @@ Building AI products for agriculture, retail, and B2B. Designing architecture, e
 <td><b>Contest Participation</b><br>• <a href="https://github.com/romauov/yandex-contests">yandex-contests</a></td>
 </tr>
 </table>
-
+![Deep-ML Stats](https://vercel.app)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/romauov?theme=dark&font=Nunito)
